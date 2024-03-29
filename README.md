@@ -1,16 +1,2 @@
-# e_commerce_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# E-Commerce-Android-App
+E-commerce has become an integral part of the modern marketplace, providing consumers with a convenient and accessible platform to browse, select, and purchase a diverse array of products. Our project focuses on harnessing the capabilities of Flutter, a dynamic UI toolkit, and Dart, Firebase a versatile programming language, to create an intuitive and visually appealing Android application
