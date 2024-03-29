@@ -11,3 +11,5 @@ E-commerce has become an integral part of the modern marketplace, providing cons
 <img src="https://github.com/dsdinesh123/E-Commerce-Android-App/blob/main/app_screenshots/11.item_screen.png" width="200" height="400">
 <img src="https://github.com/dsdinesh123/E-Commerce-Android-App/blob/main/app_screenshots/12.items_screen.png" width="200" height="400">
 <img src="https://github.com/dsdinesh123/E-Commerce-Android-App/blob/main/app_screenshots/13.cart_screen.png" width="200" height="400">
+
+This project is not yet completed; it is currently ongoing.
